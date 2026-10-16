@@ -480,7 +480,7 @@ void setup()
 
   Serial.println();
   Serial.println("========================================");
-  Serial.println("ESP32 REAL GPS + DHT11 SYSTEM");
+  Serial.println("ESP32 GPS + DHT11 SYSTEM");
   Serial.println("========================================");
 
   Serial.println("GPS:");
