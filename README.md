@@ -1,6 +1,8 @@
 This repository has the code to flash in esp32 with gps neo6m module with dht11 sensor to plot temperature values on the graph, parse nmea data on the website and plot it on a real map.
 It also generates sine, square and triangle waves on 3 variables which can be seen on the graph plotter.
 
+The code might need changes for different microcontrollers or different hardware setup.
+
 Below is the system architecture: 
 <img width="1448" height="1086" alt="ChatGPT Image Sep 13, 2026, 12_18_27 AM" src="https://github.com/user-attachments/assets/33647856-392e-4bb2-a402-12cbdaedd9f5" />
 
